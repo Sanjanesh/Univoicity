@@ -19,7 +19,7 @@
 
 2. **Clone the repository:**  
    ```sh
-   git clone (https://github.com/Sanjanesh/Univoicity.git)
+   git clone https://github.com/Sanjanesh/Univoicity.git
    cd Univoicity
    ```
 3. **Install dependencies:**  

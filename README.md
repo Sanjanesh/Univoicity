@@ -7,7 +7,7 @@
 
 ## Features
 
-- **Login Page:** Sign in using VTOP credentials.
+- **Login Page:** Sign in using credentials.
 - **Home Page:** View overall ratings, majority votings, like/dislike statistics, and navigate to posts or create new ones.
 - **Posts Page:** Browse campus rules/policies with upvote/downvote counts.
 - **New Post Page:** Generate random campus-specific rules or policies using Gemini AI.
